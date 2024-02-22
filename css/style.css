@@ -4,7 +4,8 @@
 */
 
 h1 {
-  background-color: rgb(red, green, blue);
+background-color: rgba(2, 0, 128, 0.2);
+  color: blanchedalmond;
   text-align: center;
   padding: 50px;
 }
@@ -16,6 +17,6 @@ h2 {
 }
 p {
   background-color: green;
-  text-align: right;
+  text-align: left;
   padding: 30px;
 }
